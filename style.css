@@ -1,0 +1,103 @@
+
+
+
+
+body{
+    background-color: rgb(253, 253, 253);
+    
+}
+
+nav{
+    background-color: rgb(255, 255, 255);
+    height: 26px;
+    width: 100%;
+    padding-left: px;
+    top: 10px;
+    border-radius: 7px;
+    align-items: center;
+    box-shadow: 0 0 15px 1px;
+    
+}
+
+.endereco{
+    position: relative;
+    font-size: 5px;
+    top:3px;
+    left: 50% ;
+    transform: translate(-50%);
+    width: 50px;
+    display: flex;
+    justify-content: center;
+    border-radius: 6px;
+    text-decoration: none;
+    
+}
+
+.letra-endereco{
+    position: relative;
+    text-align: center;
+    font-size: 5px;
+}
+
+main{
+
+}
+
+footer{
+    position: fixed;
+    background-color: aliceblue;
+    width: 100%; /* Largura */
+    height: 60px; /* Altura*/
+    left: px; /* esquerda postion*/
+    top: 93%; /* cima postion*/
+    align-items: center;
+    display: flex;
+    left: 0px; 
+    border-radius: 20px ;
+    box-shadow: 0 0 15px 5px;
+    
+
+    
+    
+    
+    
+
+
+}
+.menu-baixo{
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    height:37px;
+    padding: 7px;
+    margin-top: px;
+    padding-bottom: px;
+    font-size: 4px;
+    margin-inline:4px;
+    border: none;
+    
+    
+}
+
+.tex-baixo{
+    position:relative;
+    bottom: 17px;
+    left: 12px;
+}
+
+
+
+
+.b{
+    width: 35px;
+    height: 35px;
+    bottom: 14px;
+    left: 8px;
+    position: relative;
+    
+}
+button{
+    border-radius: 40px;
+    background-color: rgba(34, 110, 177, 0);
+    
+}
