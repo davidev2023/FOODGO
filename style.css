@@ -43,7 +43,7 @@ main{
 
 }
 
-footer
+footer{
     position: fixed;
     background-color: aliceblue;
     width: 100%; /* Largura */
